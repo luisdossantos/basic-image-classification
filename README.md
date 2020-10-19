@@ -1,11 +1,16 @@
 
-# basic-image-classification
-Basic image classification project using TensorFlow 2 on the Fashion MNIST data set.
+# TensorFlow Projects
 
 ### Goal
-The goal of this project was to learn and practice using the TensorFlow 2 library.
+The goal of these projects was to learn and practice using the TensorFlow 2 library, which is an open-source platform developed by Google to build and put in production Machine Learning projects.
 
-### Libraries used
-tensorflow 2.3.0
-matplotlib 3.3.2
-numpy 1.18.5
+### Projects description :
+
+##### 1. Classify images of images
+Basic image classification project, building a Feedforward Neural Network applied to the Fashion MNIST data set (CNNs are obviously best suited for images, but this was just a test).
+
+##### 2. Incoming ... (maybe)
+
+
+### Reference
+[https://www.tensorflow.org/](https://www.tensorflow.org/)
